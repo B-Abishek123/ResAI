@@ -1,0 +1,13 @@
+Flask
+fastapi
+uvicorn
+streamlit
+pymupdf
+python-docx
+spacy
+nltk
+scikit-learn
+fuzzywuzzy
+sentence-transformers
+faiss-cpu
+sqlalchemy
